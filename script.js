@@ -5,7 +5,7 @@ const appData = {
             name: "أ.حيدر عبد الأئمة",
             subject: "الرياضيات - السادس الإعدادي",
             lecturesCount: 2026,
-            image: "assets/teachers/math.jpg",
+            image: "math.jpg",
             chapters: [
                 {
                     id: 101,
@@ -26,7 +26,7 @@ const appData = {
             name: "أ.حسين محمد",
             subject: "الفيزياء - السادس الإعدادي",
             lecturesCount: 2026,
-            image: "assets/teachers/physics.jpg",
+            image: "physics.jpg",
             chapters: [
                 {
                     id: 201,
