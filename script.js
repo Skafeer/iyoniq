@@ -66,7 +66,34 @@ const appData = {
             ]
         }
             ]
-        }
+        },
+        {
+                    id: 4,
+            name: "أ.نورس الموسوي",
+            subject: "احياء - السادس الإعدادي",
+            lecturesCount: 2026,
+            image: "Biology.jpg",
+            chapters: [
+                {
+                    id: 401,
+                    name: "المقدمة",
+                    lectures: [
+                        {title: "المحاضرة التعريفية", url: "https://vz-99e5c202-ca5.b-cdn.net/caadbdff-8861-4ac2-9bff-083dfe171752/1080p/video.m3u8"},
+                        {title: "تقسيمات منهج الاحياء", url: "https://vz-99e5c202-ca5.b-cdn.net/caadbdff-8861-4ac2-9bff-083dfe171752/1080p/video.m3u8"},
+                
+                    ]
+                },
+                {
+    id: 402,
+    name: "الفصل الاول - الخلية",
+    lectures: [
+        { title: "المحاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/4a8313b5-f032-4868-bb91-df3202078817/1080p/video.m3u8" },
+        
+    ]
+}
+         
+            ]
+}
     ],
     
     
