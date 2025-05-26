@@ -39,8 +39,37 @@ const appData = {
                     ]
                 }
             ]
+        },
+                {
+            id: 3,
+            name: "أ.هاشم الغرباوي",
+            subject: "الكيمياء - السادس الإعدادي",
+            lecturesCount: 2026,
+            image: "chemistry.jpg",
+            chapters: [
+                {
+                    id: 301,
+                    name: "الاساسيات",
+                    lectures: [
+                        {title: "اساسيات 1", url: "https://vz-99e5c202-ca5.b-cdn.net/092c23a8-0cbe-44a6-a4b4-cefb20910478/1080p/video.m3u8"},
+                        {title: "اساسيات 2", url: "https://vz-99e5c202-ca5.b-cdn.net/916fe1c7-c230-4495-b525-c8a5bf9fbb41/1080p/video.m3u8"},
+                
+                    ]
+                },
+                            {
+            id: 302, // رقم جديد مختلف
+            name: "الفصل الاول - الثرموداينمك", // اسم الفصل الجديد
+            lectures: [
+                { title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/a5450272-34bf-47cd-8e63-4fbcbdd180f5/1080p/video.m3u8" },
+                { title: "محاضرة 2", url: "https://vz-99e5c202-ca5.b-cdn.net/4d4dbdf8-2e6b-4ebb-8917-d99ca17943cb/1080p/video.m3u8" },
+                { title: "محاضرة 3", url: "https://vz-99e5c202-ca5.b-cdn.net/3ca71c40-706a-4cd2-855f-57138b4cf646/1080p/video.m3u8" }
+            ]
+        }
+            ]
         }
     ],
+    
+    
     currentTeacher: null,
     currentChapter: null,
     videoPlayer: null,
@@ -321,3 +350,4 @@ function initApp() {
 }
 
 document.addEventListener('DOMContentLoaded', initApp);
+
