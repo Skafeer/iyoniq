@@ -136,10 +136,67 @@ const appData = {
         
         
     ]
-}
+},
          
-            ]
-}
+        {
+        {
+            id: 5,
+            name: "أ.سجاد العبيدي",
+            subject: "انكليزي - السادس الإعدادي",
+            lecturesCount: 2026,
+            image: "Biolog.jpg",
+            chapters: [
+                {
+                    id: 401,
+                    name: "المقدمة",
+                    lectures: [
+              "title": "محاضرة 1",
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/fae0d70a-e4c7-46e0-a046-e8b52436e9fa/1080p/video.m3u8"},
+                ]
+        },
+                {
+                    id: 502,
+    name: "اليونت الاول",
+    lectures: [
+            {
+              "title": "محاضرة 2",
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/1138f878-d8fa-4ed2-8228-f4c237b53d16/1080p/video.m3u8"},
+            {
+              "title": "محاضرة 3",
+            "url": "https://vz-99e5c202-ca5.b-cdn.net/5cb01382-c193-420f-a418-e6b10e0959d2/1080p/video.m3u8"},
+          ]
+        },
+        {
+          "name": "اليونت الاول",
+          "lectures": [
+            {
+              "title": "محاضرة 1",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://vz-99e5c202-ca5.b-cdn.net/cce812a8-9008-44cf-a16e-00d7d82235a2/720p/video.m3u8"
+            },
+            {
+              "title": "محاضرة 2",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://vz-b26dd76f-dc1.b-cdn.net/db88faee-e114-4741-9478-11340dc7c52e/720p/video.m3u8"
+            },
+            {
+              "title": "محاضرة 3",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://vz-b26dd76f-dc1.b-cdn.net/84debba3-e9cc-402f-988e-d160db5bf588/720p/video.m3u8"
+            },
+            {
+              "title": "محاضرة 4",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://vz-b26dd76f-dc1.b-cdn.net/4f13598f-0ece-4f02-bd1e-73a895707225/720p/video.m3u8"
+            },
+            {
+              "title": "محاضرة 5",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://vz-b26dd76f-dc1.b-cdn.net/e832a8c8-b623-43ec-b93a-859560231a74/720p/video.m3u8"
+
+
+                  ]
+        }٫
     ],
     
     
