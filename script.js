@@ -22,15 +22,13 @@ const appData = {
                         {title: "محاضرة 8", url: "https://vz-99e5c202-ca5.b-cdn.net/094997e9-f9da-4457-80f0-b6e0094ebef5/720p/video.m3u8"},
                         {title: "محاضرة 9", url: "https://vz-b26dd76f-dc1.b-cdn.net/1b2934b2-0c6c-420b-a100-2dc34288cd2e/720p/video.m3u8"},
                         {title: "محاضرة 10", url: "https://vz-b26dd76f-dc1.b-cdn.net/4074fd8c-d92f-4002-a393-390e7582b5b3/720p/video.m3u8"},
-                        {title: "محاضرة 11 : وزاريات ايجاد الثوابت الجزء الثاني", url: "https://vz-b26dd76f-dc1.b-cdn.net/b32a6421-a06c-408a-9ffb-871a23c62135/720p/video.m3u8"}
+                        {title: "محاضرة 11 : وزاريات ايجاد الثوابت الجزء الثاني", url: "https://vz-b26dd76f-dc1.b-cdn.net/b32a6421-a06c-408a-9ffb-871a23c62135/720p/video.m3u8"},
                         {title: "محاضرة 12 : وزاريات ايجاد الثوابت الجزء الثالث", url: "https://vz-b26dd76f-dc1.b-cdn.net/040c58ef-0c2c-4a39-bcf0-2e69a163e449/720p/video.m3u8"},
                         {title: "محاضرة 13 : تحليل الفرق بين مربعين", url: "https://vz-b26dd76f-dc1.b-cdn.net/0265e720-3858-49ea-acc8-ff2a81e2daf6/720p/video.m3u8"},
                         {title: "محاضرة 14 : الجذور التربيعية للعدد المركب", url: "https://vz-b26dd76f-dc1.b-cdn.net/3734983e-98c4-4cdd-b7a1-a2a3198586b9/720p/video.m3u8"},
-                        {title: "محاضرة 15 : (الجذور التربيعية للعدد المركب (النوع الثالث)", url: "https://vz-b26dd76f-dc1.b-cdn.net/3686e411-81ef-47c5-af65-db07fe8a2b51/720p/video.m3u8"},
-                        
-                        
+                        {title: "محاضرة 15 : (الجذور التربيعية للعدد المركب (النوع الثالث)", url: "https://vz-b26dd76f-dc1.b-cdn.net/3686e411-81ef-47c5-af65-db07fe8a2b51/720p/video.m3u8"}
                     ]
-                },
+                }
             ]
         },
         {
