@@ -209,9 +209,9 @@ const appData = {
                         {
                     id: 6,
             name: "أ.رفل الزبيدي",
-            subject: "فيزياء - السادس الإعدادي",
+            subject: "عربي - السادس الإعدادي",
             lecturesCount: 2026,
-            image: "Bioloy.jpg",
+            image: "Arabic1.png",
             chapters: [
                 {
                     id: 601,
