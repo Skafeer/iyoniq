@@ -35,7 +35,23 @@ const appData = {
                         {title: "اساسيات الفيزياء", url: "https://vz-99e5c202-ca5.b-cdn.net/7f2873a8-c450-4db3-819a-1cfc518c23f8/1080p/video.m3u8"},
                         {title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/623af7df-e18e-49a5-a140-5db6238d2d0b/1080p/video.m3u8"},
                         {title: "محاضرة 2", url: "https://vz-99e5c202-ca5.b-cdn.net/b1e8199a-1e73-41f2-817b-195170e3fb2a/1080p/video.m3u8"},
-                        {title: "محاضرة 3", url: "https://vz-99e5c202-ca5.b-cdn.net/c1c1be8d-4121-43a3-98d7-e251226d320e/1080p/video.m3u8"}
+                        {title: "محاضرة 3", url: "https://vz-99e5c202-ca5.b-cdn.net/c1c1be8d-4121-43a3-98d7-e251226d320e/1080p/video.m3u8"},
+                        {title: "محاضرة 4", url: "https://vz-99e5c202-ca5.b-cdn.net/b9071139-ffe3-403c-aea5-ee3b00e403eb/1080p/video.m3u8"},
+                        {title: "محاضرة 5 - المتسعة بوجود عازل", url: "https://vz-99e5c202-ca5.b-cdn.net/b9071139-ffe3-403c-aea5-ee3b00e403eb/720p/video.m3u8"},
+                        {title: "قوانين المتسعة الواحدة بوجود عازل", url: "https://vz-99e5c202-ca5.b-cdn.net/e245ad79-ba95-4afe-8b4d-1ec2fe769cd0/720p/video.m3u8"},
+                        {title: "قوانين المتسعة الواحدة بوجود عازل الجزء الثاني", url: "https://vz-99e5c202-ca5.b-cdn.net/117aec35-b995-41d3-8c1d-d24f813d3eef/720p/video.m3u8"},
+                        {title: "محاضرة 7", url: "https://vz-b26dd76f-dc1.b-cdn.net/84f050c0-d4dd-4fbb-91e0-01d3b8875314/720p/video.m3u8"},
+                        {title: "محاضرة 8", url: "https://vz-b26dd76f-dc1.b-cdn.net/26e28c3c-5256-4752-adf8-69960d4172ca/720p/video.m3u8"},
+                        {title: "محاضرة 9", url: "https://vz-b26dd76f-dc1.b-cdn.net/5542581f-b201-4c25-b658-fae9c0ad6d20/720p/video.m3u8"},
+                        {title: "المحاضرة 10 : المتسعة الواحدة بوجود العازل الكهربائي (الاثرائيات)", url: "https://vz-b26dd76f-dc1.b-cdn.net/44c9586c-e892-4965-a6a5-ee4bcef472f8/720p/video.m3u8"},
+                        {title: "المحاضرة 11 : ربط التوالي والتوازي (كلاميات)", url: "https://vz-b26dd76f-dc1.b-cdn.net/cf7e372b-8145-47d1-ae71-7a615e1be1ba/720p/video.m3u8"},
+                        {title: "المحاضرة 12 : الاسئلة المزعجة", url: "https://vz-b26dd76f-dc1.b-cdn.net/51980f97-8da2-4aa8-a298-82f2fd486e98/720p/video.m3u8"},
+                        {title: "المحاضرة 13 : مسائل ربط التوالي والتوازي", url: "https://vz-b26dd76f-dc1.b-cdn.net/09e5f2aa-6066-46ca-9307-4a1e943f7c56/720p/video.m3u8"},
+
+
+
+              
+                        
                     ]
                 }
             ]
