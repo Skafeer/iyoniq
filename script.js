@@ -147,7 +147,7 @@ const appData = {
             name: "أ.سجاد العبيدي",
             subject: "انكليزي - السادس الإعدادي",
             lecturesCount: 2026,
-            image: "Bioloy.jpg",
+            image: "English1.png",
             chapters: [
                 {
                     id: 401,
