@@ -88,7 +88,17 @@ const appData = {
             lectures: [
                 { title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/a5450272-34bf-47cd-8e63-4fbcbdd180f5/1080p/video.m3u8" },
                 { title: "محاضرة 2", url: "https://vz-99e5c202-ca5.b-cdn.net/4d4dbdf8-2e6b-4ebb-8917-d99ca17943cb/1080p/video.m3u8" },
-                { title: "محاضرة 3", url: "https://vz-99e5c202-ca5.b-cdn.net/3ca71c40-706a-4cd2-855f-57138b4cf646/1080p/video.m3u8" }
+                { title: "محاضرة 3", url: "https://vz-99e5c202-ca5.b-cdn.net/3ca71c40-706a-4cd2-855f-57138b4cf646/1080p/video.m3u8" },
+                {title: "محاضرة 4", url: "https://vz-99e5c202-ca5.b-cdn.net/5be932f1-534a-488d-b0cb-7330eaf06491/1080p/video.m3u8"},
+                {title: "محاضرة 5", url: "https://vz-99e5c202-ca5.b-cdn.net/85b5e458-8910-4d19-8316-b04016b70881/1080p/video.m3u8"},
+                {title: "محاضرة 6", url: "https://vz-99e5c202-ca5.b-cdn.net/0bcec746-94f4-4361-9ce2-265e64672493/720p/video.m3u8"},
+                {title: "محاضرة 7", url: "https://vz-b26dd76f-dc1.b-cdn.net/d81a8d08-0bc5-4ae7-ae42-35d936ea3772/720p/video.m3u8"},
+                {title: "محاضرة 8", url: "https://vz-b26dd76f-dc1.b-cdn.net/e270018a-2c1a-4639-aa77-0eb2ea5ba5d6/720p/video.m3u8"},
+                {title: "محاضرة 9", url: "https://vz-b26dd76f-dc1.b-cdn.net/b4410e93-4c8c-47ce-8bc1-6c5b6d486b72/720p/video.m3u8"},
+                {title: "محاضرة 10", url: "https://vz-b26dd76f-dc1.b-cdn.net/ed162563-2e71-4470-98a7-fa2e270a7500/720p/video.m3u8"},
+                {title: "محاضرة 11", url: "https://vz-b26dd76f-dc1.b-cdn.net/239d5159-5d25-4c5f-b7c8-ef7d78ea0ea5/720p/video.m3u8"},
+                {title: "محاضرة 12", url: "https://vz-b26dd76f-dc1.b-cdn.net/a1356270-2ea9-49e6-b815-0ad0d56cc69b/720p/video.m3u8"},
+                
             ]
         }
             ]
