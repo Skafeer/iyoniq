@@ -115,7 +115,7 @@ const appData = {
                     name: "المقدمة",
                     lectures: [
                         {title: "المحاضرة التعريفية", url: "https://vz-99e5c202-ca5.b-cdn.net/caadbdff-8861-4ac2-9bff-083dfe171752/1080p/video.m3u8"},
-                        {title: "تقسيمات منهج الاحياء", url: "https://vz-99e5c202-ca5.b-cdn.net/caadbdff-8861-4ac2-9bff-083dfe171752/1080p/video.m3u8"},
+                        {title: "تقسيمات منهج الاحياء", url: "https://vz-99e5c202-ca5.b-cdn.net/d2873133-0933-402f-86bf-17125efbdf3b/1080p/video.m3u8"},
                 
                     ]
                 },
@@ -123,7 +123,17 @@ const appData = {
     id: 402,
     name: "الفصل الاول - الخلية",
     lectures: [
-        { title: "المحاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/4a8313b5-f032-4868-bb91-df3202078817/1080p/video.m3u8" },
+        {title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/4a8313b5-f032-4868-bb91-df3202078817/1080p/video.m3u8"},
+        {title: "محاضرة 2", url: "https://vz-99e5c202-ca5.b-cdn.net/0b33b9e6-0263-4d8f-b536-f757cc81b28d/1080p/video.m3u8"},
+        {title: "محاضرة 3", url: "https://vz-99e5c202-ca5.b-cdn.net/f70fc1b9-3f9f-4969-8148-fb5f3c17d23d/1080p/video.m3u8"},
+        {title: "محاضرة 4", url: "https://vz-b26dd76f-dc1.b-cdn.net/7484dc7e-43ca-4139-8d4d-86d06c220e6d/720p/video.m3u8"},
+        {title: "محاضرة 5", url: "https://vz-b26dd76f-dc1.b-cdn.net/bab2a5c1-4435-4d45-a242-454ef8289324/720p/video.m3u8"},
+        {title: "محاضرة 6", url: "https://vz-b26dd76f-dc1.b-cdn.net/7e4b1d89-36f6-418b-91c1-b655b70dcc64/720p/video.m3u8"},
+        {title: "محاضرة 7 : الفجوات والمحتويات الغير حية", url: "https://vz-b26dd76f-dc1.b-cdn.net/7e244e05-3916-4757-92b1-43f505d202f5/720p/video.m3u8"},
+        {title: "محاضرة 8 : النواة", url: "https://vz-b26dd76f-dc1.b-cdn.net/a2799dd5-58f5-43c3-84c2-771c6afbae5c/720p/video.m3u8"},
+        {title: "محاضرة 9 : المراجعة", url: "https://vz-b26dd76f-dc1.b-cdn.net/0db0414a-1bdb-42e5-81b0-f098726a529b/720p/video.m3u8"},
+        {title: "محاضرة 10 : الانشطة الخلوية (الانتشار والنفوذية)", url: "https://vz-b26dd76f-dc1.b-cdn.net/09838d77-b03e-4046-9255-b548cfebcd6f/720p/video.m3u8"},
+        
         
     ]
 }
