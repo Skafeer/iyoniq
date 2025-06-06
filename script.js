@@ -198,11 +198,55 @@ const appData = {
         {title: "محاضرة 2", url: "https://vz-99e5c202-ca5.b-cdn.net/e1bcbd27-d90a-4e9e-b930-5c41d4f89ba7/1080p/video.m3u8"},
         {title: "محاضرة 3 : سعة المتسعة الجزء الثاني", url: "https://vz-b26dd76f-dc1.b-cdn.net/943bc65f-4aad-43fb-9a6d-097781fff342/720p/video.m3u8"},
         {title: "محاضرة 4 : العازل الكهربائي", url: "https://vz-b26dd76f-dc1.b-cdn.net/ae1704ef-332a-4a63-8ea8-e7b4ef4ee2ba/720p/video.m3u8"},
-        {title: "محاضرة 5محاضرة 5 : قوة العزل الكهربائي", url: "https://vz-b26dd76f-dc1.b-cdn.net/1add4f26-cae5-4b2d-858b-256c35fff98f/720p/video.m3u8"},
+        {title: "محاضرة 5 : قوة العزل الكهربائي", url: "https://vz-b26dd76f-dc1.b-cdn.net/1add4f26-cae5-4b2d-858b-256c35fff98f/720p/video.m3u8"},
         {title: "محاضرة 6 : تجربة فاراداي", url: "https://vz-b26dd76f-dc1.b-cdn.net/8d2fa5b7-805a-4a35-88bb-fa09bfe49837/720p/video.m3u8"},
         {title: "محاضرة 7 : تأثير المساحة السطحية والبعد بين صفيحتين على المتسعة", url: "https://vz-b26dd76f-dc1.b-cdn.net/0a31d3ee-f2be-4770-ac07-8f0fc2efdf98/720p/video.m3u8"},
         ]
         }
+            ]
+        },
+
+                        {
+                    id: 6,
+            name: "أ.رفل الزبيدي",
+            subject: "فيزياء - السادس الإعدادي",
+            lecturesCount: 2026,
+            image: "Bioloy.jpg",
+            chapters: [
+                {
+                    id: 601,
+                    name: "الاساسيات",
+                    lectures: [
+                        {title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/2414378d-0a9b-4de1-88d2-7279dacac70b/1080p/video.m3u8"},
+                        {title: "محاضرة 2", url: "https://vz-99e5c202-ca5.b-cdn.net/2eec9771-a153-4fec-ad1c-73536702b9df/1080p/video.m3u8"},
+                        {title: "محاضرة 3", url: "https://vz-99e5c202-ca5.b-cdn.net/02923885-9386-4ac3-bc44-fbf527407006/1080p/video.m3u8"},
+                        {title: "محاضرة 4", url: "https://vz-99e5c202-ca5.b-cdn.net/59e2edde-97ec-4f01-9143-c26f42642321/1080p/video.m3u8"},
+                        {title: "محاضرة 5", url: "https://vz-99e5c202-ca5.b-cdn.net/03c0c583-26db-48c2-9ef6-5a353471fe54/1080p/video.m3u8"},
+                        {title: "محاضرة 6", url: "https://vz-99e5c202-ca5.b-cdn.net/66660390-3cac-4582-bf2b-90eb62719a03/1080p/video.m3u8"},
+                
+                    ]
+                },
+                {
+    id: 602,
+    name: "الاستفهام",
+    lectures: [
+        {title: "الاستفهام 1", url: "https://vz-99e5c202-ca5.b-cdn.net/81bbefa8-4140-4813-a7ad-4cde88757689/720p/video.m3u8"},
+        {title: "الاستفهام 2", url: "https://vz-99e5c202-ca5.b-cdn.net/6757a3de-75d2-4d8d-8aea-d1b4b6d886d0/720p/video.m3u8"},
+        {title: "محاضرة 3 : همزة التسوية", url: "https://vz-b26dd76f-dc1.b-cdn.net/9dba7736-4ce3-42b5-8cc7-f00eca59327d/720p/video.m3u8"},
+        {title: "محاضرة 4 : تحويل الاستفهام من نوع لآخر", url: "https://vz-b26dd76f-dc1.b-cdn.net/84ef5d65-4b7f-44ec-ac33-c9c4f96579d7/720p/video.m3u8"},
+        {title: "محاضرة 5 : صيغ الأسئلة الوزارية الخاصة بـ (أنواع الاستفهام)", url: "https://vz-b26dd76f-dc1.b-cdn.net/3759fbd7-f1f3-40b4-9002-19fb223707bc/720p/video.m3u8"},
+        {title: "محاضرة 6 : حل أسئلة الاستفهام الوزارية (الجزء الأول)", url: "https://vz-b26dd76f-dc1.b-cdn.net/cfd68ddf-650c-4807-9632-abf15ec29b98/720p/video.m3u8"},
+        ]
+        },
+                                {
+    id: 603,
+    name: "الادب الحديث (الفصل الاول)",
+    lectures: [
+        {title: "المحاضرة 1 : الادب الحديث", url: "https://vz-b26dd76f-dc1.b-cdn.net/64abbd52-68ad-45fd-8631-146ede3b35c3/720p/video.m3u8"},
+        {title: "المحاضرة 2 : الشعر الحديث", url: "https://vz-b26dd76f-dc1.b-cdn.net/49e4ff04-f221-46e4-b805-ab4fe687a6aa/720p/video.m3u8"},
+]
+        },
+                
             ]
         },
         
