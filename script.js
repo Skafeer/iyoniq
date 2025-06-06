@@ -178,7 +178,7 @@ const appData = {
             name: "أ.علي السوداني",
             subject: "فيزياء - السادس الإعدادي",
             lecturesCount: 2026,
-            image: "Bioloy.jpg",
+            image: "physics1.png",
             chapters: [
                 {
                     id: 501,
