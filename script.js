@@ -103,15 +103,85 @@ const appData = {
         }
             ]
         },
+
+                        {
+            id: 3,
+            name: "أ.هاشم الغرباوي",
+            subject: "الكيمياء - السادس الإعدادي",
+            lecturesCount: 2026,
+            image: "chemistry.jpg",
+            chapters: [
+                {
+                    id: 301,
+                    name: "الاساسيات",
+                    lectures: [
+                        {title: "اساسيات 1", url: "https://vz-99e5c202-ca5.b-cdn.net/092c23a8-0cbe-44a6-a4b4-cefb20910478/1080p/video.m3u8"},
+                        {title: "اساسيات 2", url: "https://vz-99e5c202-ca5.b-cdn.net/916fe1c7-c230-4495-b525-c8a5bf9fbb41/1080p/video.m3u8"},
+                
+                    ]
+                },
+                            {
+            id: 302, // رقم جديد مختلف
+            name: "الفصل الاول - الثرموداينمك", // اسم الفصل الجديد
+            lectures: [
+                { title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/a5450272-34bf-47cd-8e63-4fbcbdd180f5/1080p/video.m3u8" },
+                { title: "محاضرة 2", url: "https://vz-99e5c202-ca5.b-cdn.net/4d4dbdf8-2e6b-4ebb-8917-d99ca17943cb/1080p/video.m3u8" },
+                { title: "محاضرة 3", url: "https://vz-99e5c202-ca5.b-cdn.net/3ca71c40-706a-4cd2-855f-57138b4cf646/1080p/video.m3u8" },
+                {title: "محاضرة 4", url: "https://vz-99e5c202-ca5.b-cdn.net/5be932f1-534a-488d-b0cb-7330eaf06491/1080p/video.m3u8"},
+                {title: "محاضرة 5", url: "https://vz-99e5c202-ca5.b-cdn.net/85b5e458-8910-4d19-8316-b04016b70881/1080p/video.m3u8"},
+                {title: "محاضرة 6", url: "https://vz-99e5c202-ca5.b-cdn.net/0bcec746-94f4-4361-9ce2-265e64672493/720p/video.m3u8"},
+                {title: "محاضرة 7", url: "https://vz-b26dd76f-dc1.b-cdn.net/d81a8d08-0bc5-4ae7-ae42-35d936ea3772/720p/video.m3u8"},
+                {title: "محاضرة 8", url: "https://vz-b26dd76f-dc1.b-cdn.net/e270018a-2c1a-4639-aa77-0eb2ea5ba5d6/720p/video.m3u8"},
+                {title: "محاضرة 9", url: "https://vz-b26dd76f-dc1.b-cdn.net/b4410e93-4c8c-47ce-8bc1-6c5b6d486b72/720p/video.m3u8"},
+                {title: "محاضرة 10", url: "https://vz-b26dd76f-dc1.b-cdn.net/ed162563-2e71-4470-98a7-fa2e270a7500/720p/video.m3u8"},
+                {title: "محاضرة 11", url: "https://vz-b26dd76f-dc1.b-cdn.net/239d5159-5d25-4c5f-b7c8-ef7d78ea0ea5/720p/video.m3u8"},
+                {title: "محاضرة 12", url: "https://vz-b26dd76f-dc1.b-cdn.net/a1356270-2ea9-49e6-b815-0ad0d56cc69b/720p/video.m3u8"},
+                
+            ]
+        }
+            ]
+        },
+        
         {
                     id: 4,
+            name: "أ.سجاد العبيدي",
+            subject: "انكليزي - السادس الإعدادي",
+            lecturesCount: 2026,
+            image: "Bioloy.jpg",
+            chapters: [
+                {
+                    id: 401,
+                    name: "الاساسيات",
+                    lectures: [
+                        {title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/fae0d70a-e4c7-46e0-a046-e8b52436e9fa/1080p/video.m3u8"},
+                        {title: "محاضرة 2", url: "https://vz-99e5c202-ca5.b-cdn.net/1138f878-d8fa-4ed2-8228-f4c237b53d16/1080p/video.m3u8"},
+                        {title: "محاضرة 3", url: "https://vz-99e5c202-ca5.b-cdn.net/5cb01382-c193-420f-a418-e6b10e0959d2/1080p/video.m3u8"},
+                
+                    ]
+                },
+                {
+    id: 402,
+    name: "اليونت الاول",
+    lectures: [
+        {title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/cce812a8-9008-44cf-a16e-00d7d82235a2/720p/video.m3u8"},
+        {title: "محاضرة 2", url: "https://vz-b26dd76f-dc1.b-cdn.net/db88faee-e114-4741-9478-11340dc7c52e/720p/video.m3u8"},
+        {title: "محاضرة 3", url: "https://vz-b26dd76f-dc1.b-cdn.net/84debba3-e9cc-402f-988e-d160db5bf588/720p/video.m3u8"},
+        {title: "محاضرة 4", url: "https://vz-b26dd76f-dc1.b-cdn.net/4f13598f-0ece-4f02-bd1e-73a895707225/720p/video.m3u8"},
+        {title: "محاضرة 5", url: "https://vz-b26dd76f-dc1.b-cdn.net/e832a8c8-b623-43ec-b93a-859560231a74/720p/video.m3u8"},
+        ]
+        }
+            ]
+        },
+        
+        {
+                    id: 5,
             name: "أ.نورس الموسوي",
             subject: "احياء - السادس الإعدادي",
             lecturesCount: 2026,
             image: "Biology.jpg",
             chapters: [
                 {
-                    id: 401,
+                    id: 501,
                     name: "المقدمة",
                     lectures: [
                         {title: "المحاضرة التعريفية", url: "https://vz-99e5c202-ca5.b-cdn.net/caadbdff-8861-4ac2-9bff-083dfe171752/1080p/video.m3u8"},
@@ -120,7 +190,7 @@ const appData = {
                     ]
                 },
                 {
-    id: 402,
+    id: 502,
     name: "الفصل الاول - الخلية",
     lectures: [
         {title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/4a8313b5-f032-4868-bb91-df3202078817/1080p/video.m3u8"},
