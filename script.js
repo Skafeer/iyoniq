@@ -136,48 +136,17 @@ const appData = {
             ]
         },
 
-                {
-                    id: 5,
-            name: "أ.علي السوداني",
-            subject: "فيزياء - السادس الإعدادي",
-            lecturesCount: 2026,
-            image: "physics1.png",
-            chapters: [
-                {
-                    id: 501,
-                    name: "الاساسيات",
-                    lectures: [
-                        {title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/583c5061-6c9e-4d79-b4c0-f4274fa4af84/1080p/video.m3u8"},
-                        {title: "محاضرة 2", url: "https://vz-99e5c202-ca5.b-cdn.net/0290b143-5dae-4ad3-9af2-6af5b33da003/1080p/video.m3u8"},
-                        {title: "محاضرة 3", url: "https://vz-99e5c202-ca5.b-cdn.net/156d9561-0cdf-45c4-85ca-118f490ec6f9/1080p/video.m3u8"},
-                
-                    ]
-                },
-                {
-    id: 502,
-    name: "الفصل الاول - المتسعات",
-    lectures: [
-        {title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/cb0aaac5-1614-4c41-a2b8-50d7463c9a68/1080p/video.m3u8"},
-        {title: "محاضرة 2", url: "https://vz-99e5c202-ca5.b-cdn.net/e1bcbd27-d90a-4e9e-b930-5c41d4f89ba7/1080p/video.m3u8"},
-        {title: "محاضرة 3 : سعة المتسعة الجزء الثاني", url: "https://vz-b26dd76f-dc1.b-cdn.net/943bc65f-4aad-43fb-9a6d-097781fff342/720p/video.m3u8"},
-        {title: "محاضرة 4 : العازل الكهربائي", url: "https://vz-b26dd76f-dc1.b-cdn.net/ae1704ef-332a-4a63-8ea8-e7b4ef4ee2ba/720p/video.m3u8"},
-        {title: "محاضرة 5 : قوة العزل الكهربائي", url: "https://vz-b26dd76f-dc1.b-cdn.net/1add4f26-cae5-4b2d-858b-256c35fff98f/720p/video.m3u8"},
-        {title: "محاضرة 6 : تجربة فاراداي", url: "https://vz-b26dd76f-dc1.b-cdn.net/8d2fa5b7-805a-4a35-88bb-fa09bfe49837/720p/video.m3u8"},
-        {title: "محاضرة 7 : تأثير المساحة السطحية والبعد بين صفيحتين على المتسعة", url: "https://vz-b26dd76f-dc1.b-cdn.net/0a31d3ee-f2be-4770-ac07-8f0fc2efdf98/720p/video.m3u8"},
-        ]
-        }
-            ]
-        },
+
 
                         {
-                    id: 7,
+                    id: 5,
             name: "أ.محمد قاسم",
             subject: "رياضيات - السادس الإعدادي",
             lecturesCount: 2026,
-            image: "Arabi1.png",
+            image: "math2.png",
             chapters: [
                 {
-                    id: 601,
+                    id: 501,
                     name: "الاعداد المركبة",
                     lectures: [
                         {title: "محاضرة 1 : مقدمة الاعداد المركبة", url: "https://vz-b26dd76f-dc1.b-cdn.net/f840ac1e-4f31-4717-ae52-4e6aaa95493c/720p/video.m3u8"},
@@ -192,7 +161,7 @@ const appData = {
 
 
                         {
-                    id: 5,
+                    id: 6,
             name: "أ.علي السوداني",
             subject: "فيزياء - السادس الإعدادي",
             lecturesCount: 2026,
@@ -209,7 +178,7 @@ const appData = {
                     ]
                 },
                 {
-    id: 502,
+    id: 602,
     name: "الفصل الاول - المتسعات",
     lectures: [
         {title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/cb0aaac5-1614-4c41-a2b8-50d7463c9a68/1080p/video.m3u8"},
