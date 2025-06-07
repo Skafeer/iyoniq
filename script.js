@@ -104,44 +104,7 @@ const appData = {
             ]
         },
 
-                        {
-            id: 3,
-            name: "أ.هاشم الغرباوي",
-            subject: "الكيمياء - السادس الإعدادي",
-            lecturesCount: 2026,
-            image: "chemistry.jpg",
-            chapters: [
-                {
-                    id: 301,
-                    name: "الاساسيات",
-                    lectures: [
-                        {title: "اساسيات 1", url: "https://vz-99e5c202-ca5.b-cdn.net/092c23a8-0cbe-44a6-a4b4-cefb20910478/1080p/video.m3u8"},
-                        {title: "اساسيات 2", url: "https://vz-99e5c202-ca5.b-cdn.net/916fe1c7-c230-4495-b525-c8a5bf9fbb41/1080p/video.m3u8"},
-                
-                    ]
-                },
-                            {
-            id: 302, // رقم جديد مختلف
-            name: "الفصل الاول - الثرموداينمك", // اسم الفصل الجديد
-            lectures: [
-                { title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/a5450272-34bf-47cd-8e63-4fbcbdd180f5/1080p/video.m3u8" },
-                { title: "محاضرة 2", url: "https://vz-99e5c202-ca5.b-cdn.net/4d4dbdf8-2e6b-4ebb-8917-d99ca17943cb/1080p/video.m3u8" },
-                { title: "محاضرة 3", url: "https://vz-99e5c202-ca5.b-cdn.net/3ca71c40-706a-4cd2-855f-57138b4cf646/1080p/video.m3u8" },
-                {title: "محاضرة 4", url: "https://vz-99e5c202-ca5.b-cdn.net/5be932f1-534a-488d-b0cb-7330eaf06491/1080p/video.m3u8"},
-                {title: "محاضرة 5", url: "https://vz-99e5c202-ca5.b-cdn.net/85b5e458-8910-4d19-8316-b04016b70881/1080p/video.m3u8"},
-                {title: "محاضرة 6", url: "https://vz-99e5c202-ca5.b-cdn.net/0bcec746-94f4-4361-9ce2-265e64672493/720p/video.m3u8"},
-                {title: "محاضرة 7", url: "https://vz-b26dd76f-dc1.b-cdn.net/d81a8d08-0bc5-4ae7-ae42-35d936ea3772/720p/video.m3u8"},
-                {title: "محاضرة 8", url: "https://vz-b26dd76f-dc1.b-cdn.net/e270018a-2c1a-4639-aa77-0eb2ea5ba5d6/720p/video.m3u8"},
-                {title: "محاضرة 9", url: "https://vz-b26dd76f-dc1.b-cdn.net/b4410e93-4c8c-47ce-8bc1-6c5b6d486b72/720p/video.m3u8"},
-                {title: "محاضرة 10", url: "https://vz-b26dd76f-dc1.b-cdn.net/ed162563-2e71-4470-98a7-fa2e270a7500/720p/video.m3u8"},
-                {title: "محاضرة 11", url: "https://vz-b26dd76f-dc1.b-cdn.net/239d5159-5d25-4c5f-b7c8-ef7d78ea0ea5/720p/video.m3u8"},
-                {title: "محاضرة 12", url: "https://vz-b26dd76f-dc1.b-cdn.net/a1356270-2ea9-49e6-b815-0ad0d56cc69b/720p/video.m3u8"},
-                
-            ]
-        }
-            ]
-        },
-        
+
         {
                     id: 4,
             name: "أ.سجاد العبيدي",
@@ -207,46 +170,57 @@ const appData = {
         },
 
                         {
-                    id: 6,
-            name: "أ.رفل الزبيدي",
-            subject: "عربي - السادس الإعدادي",
+                    id: 7,
+            name: "أ.محمد قاسم",
+            subject: "رياضيات - السادس الإعدادي",
             lecturesCount: 2026,
-            image: "Arabic1.png",
+            image: "Arabi1.png",
             chapters: [
                 {
                     id: 601,
+                    name: "الاعداد المركبة",
+                    lectures: [
+                        {title: "محاضرة 1 : مقدمة الاعداد المركبة", url: "https://vz-b26dd76f-dc1.b-cdn.net/f840ac1e-4f31-4717-ae52-4e6aaa95493c/720p/video.m3u8"},
+                        {title: "محاضرة 2 : قوى (i)", url: "https://vz-b26dd76f-dc1.b-cdn.net/555c3369-af4a-4f22-b3dc-bfba92004d97/720p/video.m3u8"},
+                        {title: "محاضرة 3 : العدد المركب", url: "https://vz-b26dd76f-dc1.b-cdn.net/035ffc65-8cbd-4a86-a775-c15ed6083384/720p/video.m3u8"},
+                        {title: "محاضرة 4 : العمليات الحسابية على مجموعة الأعداد المركبة الجزء الأول", url: "https://vz-b26dd76f-dc1.b-cdn.net/e70c0704-1222-42d3-a052-b1b49ee6e22e/720p/video.m3u8"},
+                        
+                    ]
+                },               
+            ]
+        },
+
+
+                        {
+                    id: 5,
+            name: "أ.علي السوداني",
+            subject: "فيزياء - السادس الإعدادي",
+            lecturesCount: 2026,
+            image: "physics1.png",
+            chapters: [
+                {
+                    id: 501,
                     name: "الاساسيات",
                     lectures: [
-                        {title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/2414378d-0a9b-4de1-88d2-7279dacac70b/1080p/video.m3u8"},
-                        {title: "محاضرة 2", url: "https://vz-99e5c202-ca5.b-cdn.net/2eec9771-a153-4fec-ad1c-73536702b9df/1080p/video.m3u8"},
-                        {title: "محاضرة 3", url: "https://vz-99e5c202-ca5.b-cdn.net/02923885-9386-4ac3-bc44-fbf527407006/1080p/video.m3u8"},
-                        {title: "محاضرة 4", url: "https://vz-99e5c202-ca5.b-cdn.net/59e2edde-97ec-4f01-9143-c26f42642321/1080p/video.m3u8"},
-                        {title: "محاضرة 5", url: "https://vz-99e5c202-ca5.b-cdn.net/03c0c583-26db-48c2-9ef6-5a353471fe54/1080p/video.m3u8"},
-                        {title: "محاضرة 6", url: "https://vz-99e5c202-ca5.b-cdn.net/66660390-3cac-4582-bf2b-90eb62719a03/1080p/video.m3u8"},
+                        {title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/583c5061-6c9e-4d79-b4c0-f4274fa4af84/1080p/video.m3u8"},
+                        {title: "محاضرة 2", url: "https://vz-99e5c202-ca5.b-cdn.net/0290b143-5dae-4ad3-9af2-6af5b33da003/1080p/video.m3u8"},
+                        {title: "محاضرة 3", url: "https://vz-99e5c202-ca5.b-cdn.net/156d9561-0cdf-45c4-85ca-118f490ec6f9/1080p/video.m3u8"},
                 
                     ]
                 },
                 {
-    id: 602,
-    name: "الاستفهام",
+    id: 502,
+    name: "الفصل الاول - المتسعات",
     lectures: [
-        {title: "الاستفهام 1", url: "https://vz-99e5c202-ca5.b-cdn.net/81bbefa8-4140-4813-a7ad-4cde88757689/720p/video.m3u8"},
-        {title: "الاستفهام 2", url: "https://vz-99e5c202-ca5.b-cdn.net/6757a3de-75d2-4d8d-8aea-d1b4b6d886d0/720p/video.m3u8"},
-        {title: "محاضرة 3 : همزة التسوية", url: "https://vz-b26dd76f-dc1.b-cdn.net/9dba7736-4ce3-42b5-8cc7-f00eca59327d/720p/video.m3u8"},
-        {title: "محاضرة 4 : تحويل الاستفهام من نوع لآخر", url: "https://vz-b26dd76f-dc1.b-cdn.net/84ef5d65-4b7f-44ec-ac33-c9c4f96579d7/720p/video.m3u8"},
-        {title: "محاضرة 5 : صيغ الأسئلة الوزارية الخاصة بـ (أنواع الاستفهام)", url: "https://vz-b26dd76f-dc1.b-cdn.net/3759fbd7-f1f3-40b4-9002-19fb223707bc/720p/video.m3u8"},
-        {title: "محاضرة 6 : حل أسئلة الاستفهام الوزارية (الجزء الأول)", url: "https://vz-b26dd76f-dc1.b-cdn.net/cfd68ddf-650c-4807-9632-abf15ec29b98/720p/video.m3u8"},
+        {title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/cb0aaac5-1614-4c41-a2b8-50d7463c9a68/1080p/video.m3u8"},
+        {title: "محاضرة 2", url: "https://vz-99e5c202-ca5.b-cdn.net/e1bcbd27-d90a-4e9e-b930-5c41d4f89ba7/1080p/video.m3u8"},
+        {title: "محاضرة 3 : سعة المتسعة الجزء الثاني", url: "https://vz-b26dd76f-dc1.b-cdn.net/943bc65f-4aad-43fb-9a6d-097781fff342/720p/video.m3u8"},
+        {title: "محاضرة 4 : العازل الكهربائي", url: "https://vz-b26dd76f-dc1.b-cdn.net/ae1704ef-332a-4a63-8ea8-e7b4ef4ee2ba/720p/video.m3u8"},
+        {title: "محاضرة 5 : قوة العزل الكهربائي", url: "https://vz-b26dd76f-dc1.b-cdn.net/1add4f26-cae5-4b2d-858b-256c35fff98f/720p/video.m3u8"},
+        {title: "محاضرة 6 : تجربة فاراداي", url: "https://vz-b26dd76f-dc1.b-cdn.net/8d2fa5b7-805a-4a35-88bb-fa09bfe49837/720p/video.m3u8"},
+        {title: "محاضرة 7 : تأثير المساحة السطحية والبعد بين صفيحتين على المتسعة", url: "https://vz-b26dd76f-dc1.b-cdn.net/0a31d3ee-f2be-4770-ac07-8f0fc2efdf98/720p/video.m3u8"},
         ]
-        },
-                                {
-    id: 603,
-    name: "الادب الحديث (الفصل الاول)",
-    lectures: [
-        {title: "المحاضرة 1 : الادب الحديث", url: "https://vz-b26dd76f-dc1.b-cdn.net/64abbd52-68ad-45fd-8631-146ede3b35c3/720p/video.m3u8"},
-        {title: "المحاضرة 2 : الشعر الحديث", url: "https://vz-b26dd76f-dc1.b-cdn.net/49e4ff04-f221-46e4-b805-ab4fe687a6aa/720p/video.m3u8"},
-]
-        },
-                
+        }
             ]
         },
         
