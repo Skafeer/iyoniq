@@ -237,7 +237,51 @@ const appData = {
                 }
             ]
         },
+        {
+                    id: 8,
+            name: "أ.هشام المعموري",
+            subject: "عربي - السادس الإعدادي",
+            lecturesCount: 2026,
+            image: "Arabic2.png",
+            chapters: [
+                {
+                    id: 801,
+                    name: "الاساسيات",
+                    lectures: [
+                        {title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/54cbcb8a-12db-4895-b44b-3f0f82e3ec12/1080p/video.m3u8"},
+                        {title: "محاضرة 2", url: "https://vz-99e5c202-ca5.b-cdn.net/8c2d5271-85be-4618-af61-1c08dd057076/1080p/video.m3u8"},
+                        {title: "محاضرة 3", url: "https://vz-99e5c202-ca5.b-cdn.net/bde728cf-be21-4fa5-986d-8f920be941d0/1080p/video.m3u8"},
+                        {title: "محاضرة 4", url: "https://vz-99e5c202-ca5.b-cdn.net/9cce2e3f-02db-4c2a-bc86-5de6ae9b737f/1080p/video.m3u8"},
+                        {title: "محاضرة 5", url: "https://vz-99e5c202-ca5.b-cdn.net/5be7c60e-72d7-4889-b9cc-00b5eb0c4925/1080p/video.m3u8"},
+                        {title: "محاضرة 6", url: "https://vz-99e5c202-ca5.b-cdn.net/e6af4501-07a4-4793-8514-77589bde9817/1080p/video.m3u8"},
+                        {title: "محاضرة 7", url: "https://vz-99e5c202-ca5.b-cdn.net/5e687bfc-3ed6-4e9a-96ea-1f697172ae3e/1080p/video.m3u8"},
+                        {title: "محاضرة 8", url: "https://vz-99e5c202-ca5.b-cdn.net/1128dacd-ab91-4c37-8516-ba3c27ef6333/1080p/video.m3u8"},
+                        {title: "محاضرة 9", url: "https://vz-99e5c202-ca5.b-cdn.net/4bcff57b-208f-4998-888e-32450ca6fecc/1080p/video.m3u8"},
+                        {title: "محاضرة 10", url: "https://vz-99e5c202-ca5.b-cdn.net/27d1c2fc-aea2-4805-9058-8e95d44a9859/1080p/video.m3u8"},
+                        {title: "محاضرة 11", url: "https://vz-99e5c202-ca5.b-cdn.net/0e88b3de-f003-4963-ac0a-7411c933dc1f/1080p/video.m3u8"},
+                    ]
+                },
+                {
+    id: 802,
+    name: "اسلوب الاستفهام",
+    lectures: [
+        {title: "محاضرة 1", url: "https://vz-99e5c202-ca5.b-cdn.net/e774c265-4a30-4b72-bc9a-97689fd61b9a/720p/video.m3u8"},
+        {title: "محاضرة 2", url: "https://vz-99e5c202-ca5.b-cdn.net/f1a5241b-45a3-4e20-99a5-04ea44fb8d8b/720p/video.m3u8"},
+        {title: "محاضرة 3 : دلالات اسماء الاستفهام - الجزء الثاني", url: "https://vz-b26dd76f-dc1.b-cdn.net/d1999f94-eb76-4c2a-b3fa-65feb156bac9/720p/video.m3u8"},
+        {title: "المحاضرة 4 : أنواع الاستفهام", url: "https://vz-b26dd76f-dc1.b-cdn.net/b4855f35-0325-4144-adfd-1d027781a374/720p/video.m3u8"},
+        {title: "المحاضرة 5 : أنواع (أم)", url: "https://vz-b26dd76f-dc1.b-cdn.net/e4c5574b-39a9-4918-b98f-687a1938f6d9/720p/video.m3u8"},
+        ]
+        },
+                {
+                    id: 803,
+    name: "الادب الحديث (الفصل الاول)",
+    lectures: [
+        {title: "المحاضرة 1 : الادب الحديث", url: "https://vz-b26dd76f-dc1.b-cdn.net/5faa5837-6207-4564-8da4-3e8645d6368c/720p/video.m3u8"},
+        {title: "المحاضرة 2 : الشعر الحديث ومدرسة الاحياء", url: "https://vz-b26dd76f-dc1.b-cdn.net/edddea04-8b1e-4fff-91c5-be0ba36e88bb/720p/video.m3u8"},
+        {title: "المحاضرة 3 : محمد سعيد الحبوبي", url: "https://vz-b26dd76f-dc1.b-cdn.net/d02f4737-5649-49b6-aac0-30f9b1463783/720p/video.m3u8"},
 
+        ]
+        },
         
         {
                     id: 15,
