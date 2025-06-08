@@ -288,12 +288,12 @@ const appData = {
 
 
 {
-    "id": 9,
-    "name": "حسين الهاشمي 2025",
-    "subject": "الكيمياء - السادس الإعدادي",
-    "lecturesCount": 2026,
-    "image": "chemistry3.png",
-    "chapters": [
+                    id: 9,
+            name: "أ.حسين الهاشمي",
+            subject: "كيمياء - السادس الإعدادي",
+            lecturesCount: 2025,
+            image: "chemistry1.png",
+            chapters: [
         {
             "id": 901,
             "name": "الفصل الاول: الثرموداينمك",
