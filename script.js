@@ -551,7 +551,7 @@ const appData = {
     id: 10,
     name: "سالم المنصور 2025",
     subject: "الاحياء - السادس الإعدادي",
-    lecturesCount: 2026,
+    lecturesCount: 2025,
     image: "biology1.png",
     chapters: [
         {
