@@ -542,6 +542,479 @@ const appData = {
     ]
 },
 
+
+
+
+
+
+        {
+    id: 10,
+    name: "سالم المنصور 2025",
+    subject: "الاحياء - السادس الإعدادي",
+    lecturesCount: 2026,
+    image: "biology 1.png",
+    chapters: [
+        {
+            id: 1001,
+            name: "الفصل الاول : الخلية",
+            lectures: [
+                {
+                    title: "محاضرة 1",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/8gEcepR9mLCI8UzDc90JtKzd9NmbgfHK_720p.mp4"
+                },
+                {
+                    title: "محاضرة 2",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/bhB97JX7mg4JUyghzgThkLMuNnudTTPO_720p.mp4"
+                },
+                {
+                    title: "محاضرة 3",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/qgvVFg6pAVWHqdMITRUs21elj8FzM118_720p.mp4"
+                },
+                {
+                    title: "محاضرة 4",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/rIHkrxgLK25PhmTH3tVlp0VZ9vVlKCNt_720p.mp4"
+                },
+                {
+                    title: "محاضرة 5",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/jjr51qlyJhHuq6M9ZuC7bVxhMG0fBV5V_720p.mp4"
+                },
+                {
+                    title: "محاضرة 6",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/w6Q0LTFKHJAWQh8lCdQST32XzPv6nrF1_720p.mp4"
+                },
+                {
+                    title: "محاضرة 7",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/OT49VSzaWzHTZ0Htrhh6CgOVGLeoarbS_720p.mp4"
+                },
+                {
+                    title: "محاضرة 8",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/eZaxcKreTsrAX3o3qA3p9NtAnLVqF9Hl_720p.mp4"
+                },
+                {
+                    title: "محاضرة 9",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/VuCRJWkUWsf7m0qMvi5bdg5p72EJ9je4_720p.mp4"
+                },
+                {
+                    title: "محاضرة 10",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/UKcBtqKQE9JnbSpBfbN15Q6yHaHh4jga_720p.mp4"
+                },
+                {
+                    title: "محاضرة 11",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/F5OCtsITVjy9R4MuatbRy838MBfiNnvn_720p.mp4"
+                },
+                {
+                    title: "محاضرة 12",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/jtzBakMwXynNUr6297ksCJypql1G2AYY_720p.mp4"
+                },
+                {
+                    title: "محاضرة 13",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/VglYbADWJTI4dSxprv6X2qI57BqbUGsT_720p.mp4"
+                },
+                {
+                    title: "محاضرة 14",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/Z9tNhKJiq3XgWzJBbWfdipWHUmFwdcDo_720p.mp4"
+                },
+                {
+                    title: "محاضرة 15",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/gP1ZZQ8lyvAn4JlgRQS657KSkhoxNJ8g_720p.mp4"
+                }
+            ]
+        },
+        {
+            id: 1002,
+            name: "الفصل الثاني : الانسجة",
+            lectures: [
+                {
+                    title: "محاضرة 1",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/oP2YHrRLGoaNeULUB5wrxyZ5O4pIybIb_720p.mp4"
+                },
+                {
+                    title: "محاضرة 2",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/fVMtJ1FNsGM4KIUpUFFvCPeWvwOgpAwL_720p.mp4"
+                },
+                {
+                    title: "محاضرة 3",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/YCiJNqCqxK4UcXF18yeIolE0ASNPBs2M_720p.mp4"
+                },
+                {
+                    title: "محاضرة 4",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/MEJ4pNw7wg56jDIhB8CWcY0TRDpGEfKR_720p.mp4"
+                },
+                {
+                    title: "محاضرة 5",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/voTdzSUgS7nrcmgw9Qrw3LENMtmP5BrP_720p.mp4"
+                },
+                {
+                    title: "محاضرة 6",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/6ZLyEs3BG1KUFk4uQ1CRTvMsAsLCEGSU_720p.mp4"
+                },
+                {
+                    title: "محاضرة 7",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/9etwZKq7nx9CE0q3Y3ybKXTmrYV09iKC_720p.mp4"
+                },
+                {
+                    title: "محاضرة 8",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/GvWHAqRd9zNCO9XhuNG3HUyzdyiuAKzi_720p.mp4"
+                },
+                {
+                    title: "محاضرة 9",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/PigRnAeuoqDVoFFG9YuE4J4Pi9mSQWS6_720p.mp4"
+                },
+                {
+                    title: "محاضرة 10",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/ekuFuBEyguznXBhos5nNGLNwTIUYXlRu_720p.mp4"
+                },
+                {
+                    title: "محاضرة 11",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/ptR1V3EzcDFOK7eq2EARiOhRnDvJHyG9_720p.mp4"
+                },
+                {
+                    title: "محاضرة 12",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/0bwtiwwq5ftbn1gxzdcijA4mCXn53908_720p.mp4"
+                }
+            ]
+        },
+        {
+            id: 1003,
+            name: "الفصل الثالث : التكاثر",
+            lectures: [
+                {
+                    title: "محاضرة 1",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/LIap88xBXJsZF4NOI6HMuxfcEpJ4H0Vf_720p.mp4"
+                },
+                {
+                    title: "محاضرة 2 جزء اول",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/FZjR1Nhj9h2kdgeBzKddBUqMIhMlegsK_720p.mp4"
+                },
+                {
+                    title: "محاضرة 2 جزء ثاني",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/7NSd2Eg4k0TOawoaU4GYwp4wvOcOJxfN_720p.mp4"
+                },
+                {
+                    title: "محاضرة 3",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/M2ON4nEuHR7nKKNoF6dROL1wcSb2jV6K_720p.mp4"
+                },
+                {
+                    title: "محاضرة 4",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/I5OQdlo1G3kQWTXqwcQOTvgstPXJBrmN_720p.mp4"
+                },
+                {
+                    title: "محاضرة 5",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/vQeoo21E7mqmjiyYH50w46TMnS3qGABM_720p.mp4"
+                },
+                {
+                    title: "محاضرة 6",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/W4pFOzFlNTGtXlsXUPLMHkY7ZBlnxMEe_720p.mp4"
+                },
+                {
+                    title: "محاضرة 7",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/LajwNT8zyGoFG5MZYpva7EiFx6ZnX6Hb_720p.mp4"
+                },
+                {
+                    title: "محاضرة 8",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/I5DocfCIRYXV4uTxKOGiyU2eePRd5anX_720p.mp4"
+                },
+                {
+                    title: "محاضرة 9",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/o0NUGeVa0c0tVQevVOGqXOX3fSnYxiAd_720p.mp4"
+                },
+                {
+                    title: "محاضرة 10",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/UKSyxYEEXMsnP6f6efByncYZzAXKr8J5_720p.mp4"
+                },
+                {
+                    title: "محاضرة 11",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/zoEgNuqxyBAYnGrM1ydr63zV5BCZaRkl_720p.mp4"
+                },
+                {
+                    title: "محاضرة 12",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/hwXWw6riwPNSvdYtRTIvluxgm3acUMw7_720p.mp4"
+                },
+                {
+                    title: "محاضرة 13",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/nkelmLmgXnk48ZA4lbo8NYdBeVaoF4gk_720p.mp4"
+                },
+                {
+                    title: "محاضرة 14",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/1j6nNkHcWo4ZZ7LiUkYHvs4j6FXvXggv_720p.mp4"
+                },
+                {
+                    title: "محاضرة 15",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/0Up39LkTkytCuDhKOO1uHMJwTiPMISVl_720p.mp4"
+                },
+                {
+                    title: "محاضرة 16",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/3F7ipmZnQ7YipTuCl9NM9szfPP4M5tfg_720p.mp4"
+                },
+                {
+                    title: "محاضرة 17",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/5TXEfc3Xugm8SntiXC7lrD5SLMPKdbPo_720p.mp4"
+                },
+                {
+                    title: "محاضرة 18",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/kw7mFQNxWI3QKYcSAqyZB4F8utj1xXVW_720p.mp4"
+                },
+                {
+                    title: "محاضرة 19 جزء اول",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/kt4n9vSxTWDpaNsm1Snt8EqJv6mFVfoX_720p.mp4"
+                },
+                {
+                    title: "محاضرة 19 جزء ثاني",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/R2NUr2t0BLryGkXPVwZemxLdht9Nu0su_720p.mp4"
+                },
+                {
+                    title: "محاضرة 20",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/2uH3wPUPtWYCbuNd0leilDtw3V5OImcP_720p.mp4"
+                },
+                {
+                    title: "محاضرة 21",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/yZKQfvG7d1GHRsuucdITaFSJWAEEqt9j_720p.mp4"
+                }
+            ]
+        },
+        {
+            id: 1004,
+            name: "الفصل الرابع : التكوين الجنيني",
+            lectures: [
+                {
+                    title: "محاضرة 1",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/lNk8oATYwONwdUdFQUNqqnQQyCGFs0Xq_720p.mp4"
+                },
+                {
+                    title: "محاضرة 2",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/zvUtn7YOjca3Od2IyTWbHoKf6IUZ4C8i_720p.mp4"
+                },
+                {
+                    title: "محاضرة 3",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/3seVQmHXmrYrB1DCQWecQm1RhPyboKDE_720p.mp4"
+                },
+                {
+                    title: "محاضرة 4",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/d5LamSYGWmOmpVmXarupe7pT3gO8X5dC_720p.mp4"
+                },
+                {
+                    title: "محاضرة 5",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/M3UFPRiMGoA9CTVk3tCGMzmufOv0uPjx_720p.mp4"
+                },
+                {
+                    title: "محاضرة 6",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/miMRw9C1kTOyFOxO3BABG2pnf578QNIz_720p.mp4"
+                },
+                {
+                    title: "محاضرة 7",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/4Yy29vjMKZZToBovp7n5McaMIRbPVlYL_720p.mp4"
+                },
+                {
+                    title: "محاضرة 8",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/V4QKZZMAgdO2JyHHlb2TOW6WnVCMosBN_720p.mp4"
+                },
+                {
+                    title: "محاضرة 9",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/0u79HHEbEm22uFlQS0XeQjhOm91UaheR_720p.mp4"
+                }
+            ]
+        },
+        {
+            id: 1005,
+            name: "اساسيات علم الوراثة",
+            lectures: [
+                {
+                    title: "محاضرة 1",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/VwEG3w60YLcxfpB8a0ORBO2lsBPVKYEr_720p.mp4"
+                },
+                {
+                    title: "محاضرة 2",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/mA8Zi52h72XEm8hqFPQjLb0oHP26NEZp_720p.mp4"
+                },
+                {
+                    title: "محاضرة 3",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/UJt2cGYJzypD6tqeepivDI7rkQi5Bsng_720p.mp4"
+                },
+                {
+                    title: "محاضرة 4",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/S5Pp2jq1H6e3jmmxdpPFXRdGuRrprt3t_720p.mp4"
+                },
+                {
+                    title: "محاضرة 5",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/i78lR5kR3G120LvlzbgPAXQxSZngeNdT_720p.mp4"
+                },
+                {
+                    title: "محاضرة 6",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/8wHcKTph91g4wV1N2rQlMK3qidylFg0d_720p.mp4"
+                },
+                {
+                    title: "محاضرة 7",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/7WIwsnbfM28dDsGcHYM6RWzmsBKX5cbK_720p.mp4"
+                }
+            ]
+        },
+        {
+            id: 1006,
+            name: "الفصل الخامس : الوراثة",
+            lectures: [
+                {
+                    title: "محاضرة 1",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/BfoH0jsUkQ85CoE1qOGZPJmK7hd1zL1m_720p.mp4"
+                },
+                {
+                    title: "محاضرة 2",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/gfWyrc1fLbCHsN3SHqmClSMEHSK5eJBU_720p.mp4"
+                },
+                {
+                    title: "محاضرة 3",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/wyEKj5mG8HCimBJHfV8NT7WwLnQBsixz_720p.mp4"
+                },
+                {
+                    title: "محاضرة 4",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/r06s27NTO5upJ4b5Q2UjHqjZ5uTA4ATI_720p.mp4"
+                },
+                {
+                    title: "محاضرة 5",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/Rs5gSVmODrkstJcOVJFCBLLEewgvgkma_720p.mp4"
+                },
+                {
+                    title: "محاضرة 6",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/blQvREXmJaEiqwHLiyxGTpv60IU3N7bB_720p.mp4"
+                },
+                {
+                    title: "محاضرة 7",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/1uIEa9OoMqQOnS16C4wEs1EEs4S3fR9T_720p.mp4"
+                },
+                {
+                    title: "محاضرة 8",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/bpoQQT6mqn5gRmjDqeipq4hylAE09EAH_720p.mp4"
+                },
+                {
+                    title: "محاضرة 9",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/SZJ1WcLc6rpVEvCVjlcWnvYNDB52JeII_720p.mp4"
+                },
+                {
+                    title: "محاضرة 10",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/qWdiLlmKlgfIJS3dhREEBUWclSkdDxAu_720p.mp4"
+                },
+                {
+                    title: "محاضرة 11",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/uAumxz1QNK1ImVMUpVSleeIU2G7shanT_720p.mp4"
+                },
+                {
+                    title: "محاضرة 12",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/ate4W3Gy80OlmTYzveWH7AIYpA3GfMha_720p.mp4"
+                },
+                {
+                    title: "محاضرة 13",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/jUCsLxxR5cdaO8yFkfotBe3Xd329I9ER_720p.mp4"
+                },
+                {
+                    title: "محاضرة 14",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/tCtG92tx0aalZbrNAnRAWZ06XatI34ac_720p.mp4"
+                },
+                {
+                    title: "محاضرة 15",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/kRTsd4sHroRXK5wsNDXBt1A4vEuF8c3X_720p.mp4"
+                },
+                {
+                    title: "محاضرة 16",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/7jLrKVcBhl8d3K1Qt2dkANcB1P5H9Ryw_720p.mp4"
+                },
+                {
+                    title: "محاضرة 17",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/6DvbHm980M229GUGOHLHXTw04RgotR5d_720p.mp4"
+                },
+                {
+                    title: "محاضرة 18",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/jTu59lJL3AI9pVbKkZVycCz96jP3BlI0_720p.mp4"
+                },
+                {
+                    title: "محاضرة 19",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/7uXCkFOywsDISwTDKw645Cd9ZlIG6GvU_720p.mp4"
+                },
+                {
+                    title: "محاضرة 20",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/okdmYGq8FQ8E6WpWRWpNLjPFUvhVxtaf_720p.mp4"
+                },
+                {
+                    title: "محاضرة 21",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/ZEq5SUDRoPheRt0CF2kyBx7FvigTorM7_720p.mp4"
+                },
+                {
+                    title: "محاضرة 22",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/OcmtBGeJRtxbiA1U8uZVwYFSvvb0HPNV_720p.mp4"
+                },
+                {
+                    title: "محاضرة 23",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/AHLQ9NvYrifM0VtXt1v29ldnoq0ePpT9_720p.mp4"
+                },
+                {
+                    title: "محاضرة 24 جزء اول",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/dafhD2SPBOzfivxFm6Y2War3hVRRq5wH_720p.mp4"
+                },
+                {
+                    title: "محاضرة 24 جزء ثاني",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/Z7DqkWX6HX2zo7odpG2PqoUJn6LOX48L_720p.mp4"
+                },
+                {
+                    title: "محاضرة 25",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/wrw1YXQaC910wRIlNv1UesmnoLMgNkxM_720p.mp4"
+                },
+                {
+                    title: "محاضرة 26",
+                    url: "https://vidcdn.akamai-cdn-delivery.com/cdn/9wYp9FdyVKWtakoolTbZRH85yrrLZyr2_720p.mp4"
+                },
+               {
+               title: "محاضرة 27",
+               url: "https://vidcdn.akamai-cdn-delivery.com/cdn/v7hwXTM0d2ohNStKMKRaZI1pg3V7PhYy_720p.mp4"
+               },
+               {
+               title: "محاضرة 28",
+               url: "https://vidcdn.akamai-cdn-delivery.com/cdn/Wb4HsRbxjmXxdHqN7ggdlRCcREAq1Me2_720p.mp4"
+               },
+               {
+               title: "محاضرة 29",
+               url: "https://vidcdn.akamai-cdn-delivery.com/cdn/R1Z8BjO12o76zouo2dKaN9GFYqXb68Mw_720p.mp4"
+               },
+               {
+               title: "محاضرة 30",
+               url: "https://vidcdn.akamai-cdn-delivery.com/cdn/4oPM22xLP7UzYYFRtXDDDRthPRAdtbhj_720p.mp4"
+               },
+               {
+               title: "محاضرة 31",
+               url: "https://vidcdn.akamai-cdn-delivery.com/cdn/ekMXTHejpnYQzADnahSrrK1donLAjaXl_720p.mp4"
+               },
+               {
+               title: "محاضرة 32",
+               url: "https://vidcdn.akamai-cdn-delivery.com/cdn/iqN6jpMSpXKBlYKaAwIv2pVuKLKEhAjb_720p.mp4"
+               },
+               {
+               title: "محاضرة 33",
+               url: "https://vidcdn.akamai-cdn-delivery.com/cdn/B4GQWC9uYvrBqTqhs4vTgIg3MBY3OiJ4_720p.mp4"
+               },
+               {
+               title: "محاضرة 34",
+               url: "https://vidcdn.akamai-cdn-delivery.com/cdn/1FVg9WkAx6DLe7XIvpkb35KBYmm1xYYi_720p.mp4"
+               },
+               {
+               title: "محاضرة 35",
+               url: "https://vidcdn.akamai-cdn-delivery.com/cdn/jcFR3iv1A7sTQuIqNJrltEqKhKL06MML_720p.mp4"
+               },
+               {
+               title: "محاضرة 36",
+               url: "https://vidcdn.akamai-cdn-delivery.com/cdn/wes6JDffVL19ORIR5duYpRddEvRticUC_720p.mp4"
+               },
+               {
+               title: "محاضرة 37",
+               url: "https://vidcdn.akamai-cdn-delivery.com/cdn/Z2gYYpXwQq0feX5enS46GsAoo29U21he_720p.mp4"
+               },
+               {
+               title: "محاضرة 38",
+               url: "https://vidcdn.akamai-cdn-delivery.com/cdn/RCTcrNDtDtq4sF26PzkagkYVDNt5dsuU_720p.mp4"
+               },
+]
+                }
+            ]
+        },
+
+
+                   
         
         {
                     id: 15,
