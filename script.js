@@ -281,6 +281,8 @@ const appData = {
         {title: "المحاضرة 3 : محمد سعيد الحبوبي", url: "https://vz-b26dd76f-dc1.b-cdn.net/d02f4737-5649-49b6-aac0-30f9b1463783/720p/video.m3u8"},
 
         ]
+                }
+            ]
         },
         
         {
