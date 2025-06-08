@@ -290,7 +290,7 @@ const appData = {
     id: 9,
     name: "حسين الهاشمي 2025",
     subject: "الكيمياء - السادس الإعدادي",
-    lecturesCount: 2026,
+    lecturesCount: 2025,
     image: "chemistry1.png",
     chapters: [
         {
